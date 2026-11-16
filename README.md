@@ -1,7 +1,7 @@
 # SkyPortal Scripts
 
 Scripts and notebooks to interact with the SkyPortal API ([orcusgate.org](https://orcusgate.org/)).
-See the [SkyPortal](https://skyportal.io) and [API](https://skyportal.io/docs/api.html) documentation for more details on available endpoints and usage.
+See the [SkyPortal](https://skyportal.io) and [API](https://docs.skyportal.io/api.html) documentation for more details on available endpoints and usage.
 
 ## Installation
 
@@ -30,4 +30,4 @@ jupyter notebook fetch_candidates.ipynb
 ## Resources
 
 - [SkyPortal](https://skyportal.io/)
-- [API documentation](https://skyportal.io/docs/api.html)
+- [API documentation](https://docs.skyportal.io/api.html)
